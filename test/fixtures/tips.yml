@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  creator_id: 1
+  title: MyString
+  description: MyText
+  room: MyString
+  price: 1.5
+  savings: 1
+
+two:
+  creator_id: 1
+  title: MyString
+  description: MyText
+  room: MyString
+  price: 1.5
+  savings: 1
